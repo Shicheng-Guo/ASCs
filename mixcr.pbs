@@ -9,10 +9,9 @@ echo \#PBS -m abe  >> $i.job
 echo \#PBS -o $(pwd)/temp/ >>$i.job
 echo \#PBS -e $(pwd)/temp/ >>$i.job
 echo cd $(pwd) >> $i.job
-echo mixcr align -f -s hsa -p kAligner2 $i\_R1.fq $i\_R2.fq $i.vdjca -r $i  >>$i.job
-echo mixcr assemble --write-alignments $i.vdjca $i.clna >>$i.job
+echo mixcr align -f -s hsa -p rna-seq $i\_R1.fq $i\_R2.fq $i.vdjca -r $i  >>$i.job
+echo mixcr assemble -f --write-alignments $i.vdjca $i.clna >>$i.job
 echo mixcr assembleContigs -f $i.clna $i.clns >>$i.job
-echo mixcr exportClones -f $i.clna $i.clns >>$i.job
 echo mixcr exportClones -f $i.clns $i.txt >>$i.job
 qsub $i.job
 done
