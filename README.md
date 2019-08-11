@@ -9,5 +9,7 @@ wget ftp://ftp.ccb.jhu.edu/pub/infphilo/hisat2/data/grch38_tran.tar.gz
 
 * [BRepertoire](http://mabra.biomed.kcl.ac.uk/BRepertoire_3/?): parsing of IMGT/V-Quest data, the calculation of properties and data analysis
 
+* [MiXCR](https://mixcr.readthedocs.io/en/master/):a universal tool for fast and accurate analysis of T- and B- cell receptor repertoire sequencing data
+
 
 
