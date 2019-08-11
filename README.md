@@ -1,5 +1,6 @@
 
-wget ftp://ftp.ccb.jhu.edu/pub/infphilo/hisat2/data/grch38_tran.tar.gz
+* [RNA-seq: HISAT, StringTie and Ballgownwget](https://www.nature.com/articles/nprot.2016.095) Transcript-level expression analysis of RNA-seq experiments with HISAT, StringTie and Ballgown
+
 
 * [partis](https://github.com/psathyrella/partis/): B- and T-cell receptor sequence annotation, simulation, clonal family, and germline inference
 
@@ -11,3 +12,5 @@ wget ftp://ftp.ccb.jhu.edu/pub/infphilo/hisat2/data/grch38_tran.tar.gz
 
 * [MiXCR](https://mixcr.readthedocs.io/en/master/):a universal tool for fast and accurate analysis of T- and B- cell receptor repertoire sequencing data
 
+
+ ftp://ftp.ccb.jhu.edu/pub/infphilo/hisat2/data/grch38_tran.tar.gz
