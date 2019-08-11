@@ -1,5 +1,5 @@
 
-* [RNA-seq: HISAT, StringTie and Ballgownwget](https://www.nature.com/articles/nprot.2016.095) Transcript-level expression analysis of RNA-seq experiments with HISAT, StringTie and Ballgown
+* [RNA-seq: ](https://www.nature.com/articles/nprot.2016.095) Transcript-level expression analysis of RNA-seq experiments with HISAT, StringTie and Ballgown
 
 
 * [partis](https://github.com/psathyrella/partis/): B- and T-cell receptor sequence annotation, simulation, clonal family, and germline inference
