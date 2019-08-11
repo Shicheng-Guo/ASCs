@@ -23,3 +23,7 @@ export PATH=/home/guosa/hpc/tools/apache-maven-3.6.1/bin:$PATH
 # Error: Could not find or load main class org.codehaus.plexus.classworlds.launcher.Launcher
 # If you meet above problem which indicates you downloaded wrong file apache-maven-3.6.1-src.tar.gz. 
 # What you need to do is just re-download  apache-maven-3.6.1-bin.tar.gz 
+
+# install mixcr
+wget https://github.com/milaboratory/mixcr/releases/download/v3.0.9/mixcr-3.0.9.zip
+unzip mixcr-3.0.9.zip
