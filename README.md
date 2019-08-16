@@ -15,4 +15,4 @@
 * [ClonoCalc and ClonoPlot](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5346239/): immune repertoire analysis from raw files to publication figures with graphical user interface
 
 
- * ftp://ftp.ccb.jhu.edu/pub/infphilo/hisat2/data/grch38_tran.tar.gz
+ * GRCH38:   ftp://ftp.ccb.jhu.edu/pub/infphilo/hisat2/data/grch38_tran.tar.gz
