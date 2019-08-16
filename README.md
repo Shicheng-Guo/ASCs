@@ -6,7 +6,7 @@
 
 * [Osmosis about Immunology](https://www.osmosis.org/home/search?topic=Immunology&show=videos&from=B%20and%20T%20cells&section=)
 
-* [VDJPuzzle2](https://github.com/Miachol/vdjpuzzle2):TCR and BCR reconstruction from scRNA-seq data
+* [VDJPuzzle](https://bitbucket.org/kirbyvisp/vdjpuzzle/src/master/):TCR and BCR reconstruction from scRNA-seq data
 
 * [BRepertoire](http://mabra.biomed.kcl.ac.uk/BRepertoire_3/?): parsing of IMGT/V-Quest data, the calculation of properties and data analysis
 
