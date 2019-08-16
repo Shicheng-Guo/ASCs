@@ -20,3 +20,6 @@
  * [IgTree](https://github.com/CNAID/Software/blob/master/barak2008_IgTree_Creating_immunoglobulin_Variable_Region_Gene_Lineage_Trees.pdf)©: Creating Immunoglobulin variable region gene lineage trees
  
  * [bbmerge](https://jgi.doe.gov/data-and-tools/bbtools/bb-tools-user-guide/bbmerge-guide/): BBMap short read aligner, and other bioinformatic tools.
+ 
+ * [IGK and IGL](https://en.wikipedia.org/wiki/Immunoglobulin_light_chain) and [LGG,LGD,LGA, LGM and LGE](https://en.wikipedia.org/wiki/Immunoglobulin_heavy_chain): Immunoglobulin light chain and Immunoglobulin heavy chain
+
