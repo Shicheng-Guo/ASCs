@@ -12,3 +12,9 @@ echo cd $(pwd) >> $i.job
 echo bbmerge.sh in1=$i\_R1.fq in2=$i\_R2.fq out=../imgt/$i.fq outu1=../imgt/$i.u1map outu2=../imgt/$i.u2map >>$i.job
 qsub $i.job
 done
+
+for i in `ls *.fq`
+do
+sed -n '1~4s/^@/>/p;2~4p' $i > $i.fasta
+echo $i
+done
