@@ -16,3 +16,5 @@
 
 
  * GRCH38:   ftp://ftp.ccb.jhu.edu/pub/infphilo/hisat2/data/grch38_tran.tar.gz
+ 
+ * [IgTree](https://github.com/CNAID/Software/blob/master/barak2008_IgTree_Creating_immunoglobulin_Variable_Region_Gene_Lineage_Trees.pdf)©: Creating Immunoglobulin variable region gene lineage trees
