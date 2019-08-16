@@ -24,4 +24,8 @@
  * [IGK and IGL](https://en.wikipedia.org/wiki/Immunoglobulin_light_chain) and [LGG,LGD,LGA, LGM and LGE](https://en.wikipedia.org/wiki/Immunoglobulin_heavy_chain): Immunoglobulin light chain and Immunoglobulin heavy chain
  
  * [TRA,TRB,TRG,TRD](https://en.wikipedia.org/wiki/T-cell_receptor):The T-cell receptor complex with TCR-α and TCR-β chains, CD3 and ζ-chain accessory molecules.
+ 
+ * [IMGT Repertoire (IG and TR)](http://www.imgt.org/IMGTrepertoire/LocusGenes/chromosomes/human/Hu_IGTRloci.html): IG and TR loci (Human): Positions on chromosomes
+
+
 
