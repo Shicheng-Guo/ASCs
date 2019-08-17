@@ -15,7 +15,7 @@
 * [ClonoCalc and ClonoPlot](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5346239/): immune repertoire analysis from raw files to publication figures with graphical user interface
 
 
- * [GRCH38](ftp://ftp.ccb.jhu.edu/pub/infphilo/hisat2/data/grch38_tran.tar.gz): ftp://ftp.ccb.jhu.edu/pub/infphilo/hisat2/data/grch38_tran.tar.gz
+ * [GRCH38](tp://ftp.ccb.jhu.edu/pub/infphilo/hisat2/data/grch38_tran.tar.gz):ftp://ftp.ccb.jhu.edu/pub/infphilo/hisat2/data/grch38_tran.tar.gz
  
  * [IgTree](https://github.com/CNAID/Software/blob/master/barak2008_IgTree_Creating_immunoglobulin_Variable_Region_Gene_Lineage_Trees.pdf)©: Creating Immunoglobulin variable region gene lineage trees
  
