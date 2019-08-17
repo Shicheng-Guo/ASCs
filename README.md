@@ -1,4 +1,4 @@
-#### B cell Anergy and Systemic Lupus Erythematosus
+### B cell Anergy and Systemic Lupus Erythematosus
 
 * [RNA-seq: ](https://www.nature.com/articles/nprot.2016.095) Transcript-level expression analysis of RNA-seq experiments with HISAT, StringTie and Ballgown
 
