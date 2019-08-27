@@ -1,0 +1,29 @@
+file_name	sample_id	SampleID	CellType	SampleType	..filter..
+metadata.txt.S22_BND.txt	S22_BND	S22	BND	S	conv:MiXcr
+metadata.txt.S25_BND.txt	S25_BND	S25	BND	S	conv:MiXcr
+metadata.txt.S229_BND.txt	S229_BND	S229	BND	S	conv:MiXcr
+metadata.txt.S22_NAIVE .txt	S22_NAIVE 	S22	NAIVE 	S	conv:MiXcr
+metadata.txt.S25_NAIVE .txt	S25_NAIVE 	S25	NAIVE 	S	conv:MiXcr
+metadata.txt.S229_NAIVE .txt	S229_NAIVE 	S229	NAIVE 	S	conv:MiXcr
+metadata.txt.S22_ACS.txt	S22_ACS	S22	ACS	S	conv:MiXcr
+metadata.txt.S25_ACS.txt	S25_ACS	S25	ACS	S	conv:MiXcr
+metadata.txt.S229_ACS.txt	S229_ACS	S229	ACS	S	conv:MiXcr
+metadata.txt.S22_MEMORY.txt	S22_MEMORY	S22	MEMORY	S	conv:MiXcr
+metadata.txt.S25_MEMORY.txt	S25_MEMORY	S25	MEMORY	S	conv:MiXcr
+metadata.txt.S229_MEMORY.txt	S229_MEMORY	S229	MEMORY	S	conv:MiXcr
+metadata.txt.S253_BND.txt	S253_BND	S253	BND	S	conv:MiXcr
+metadata.txt.S262_BND.txt	S262_BND	S262	BND	S	conv:MiXcr
+metadata.txt.S274_BND.txt	S274_BND	S274	BND	S	conv:MiXcr
+metadata.txt.S307_BND.txt	S307_BND	S307	BND	S	conv:MiXcr
+metadata.txt.S253_NAIVE.txt	S253_NAIVE	S253	NAIVE	S	conv:MiXcr
+metadata.txt.S262_NAIVE.txt	S262_NAIVE	S262	NAIVE	S	conv:MiXcr
+metadata.txt.S274_NAIVE.txt	S274_NAIVE	S274	NAIVE	S	conv:MiXcr
+metadata.txt.S307_NAIVE.txt	S307_NAIVE	S307	NAIVE	S	conv:MiXcr
+metadata.txt.S253_ACS.txt	S253_ACS	S253	ACS	S	conv:MiXcr
+metadata.txt.S262_ACS.txt	S262_ACS	S262	ACS	S	conv:MiXcr
+metadata.txt.S274_ACS.txt	S274_ACS	S274	ACS	S	conv:MiXcr
+metadata.txt.S307_ACS.txt	S307_ACS	S307	ACS	S	conv:MiXcr
+metadata.txt.S253_MEMORY.txt	S253_MEMORY	S253	MEMORY	S	conv:MiXcr
+metadata.txt.S262_MEMORY.txt	S262_MEMORY	S262	MEMORY	S	conv:MiXcr
+metadata.txt.S274_MEMORY.txt	S274_MEMORY	S274	MEMORY	S	conv:MiXcr
+metadata.txt.S307_MEMORY.txt	S307_MEMORY	S307	MEMORY	S	conv:MiXcr

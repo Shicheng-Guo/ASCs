@@ -1,0 +1,5 @@
+file_name	sample_id	SampleID	CellType	SampleType	..filter..
+metadata.txt.S307_BND.txt	S307_BND	S307	BND	S	conv:MiXcr
+metadata.txt.S307_NAIVE.txt	S307_NAIVE	S307	NAIVE	S	conv:MiXcr
+metadata.txt.S307_ACS.txt	S307_ACS	S307	ACS	S	conv:MiXcr
+metadata.txt.S307_MEMORY.txt	S307_MEMORY	S307	MEMORY	S	conv:MiXcr

@@ -1,0 +1,5 @@
+file_name	sample_id	SampleID	CellType	SampleType	..filter..
+metadata.txt.HC4_BND.txt	HC4_BND	HC4	BND	H	conv:MiXcr
+metadata.txt.HC4_NAIVE .txt	HC4_NAIVE 	HC4	NAIVE 	H	conv:MiXcr
+metadata.txt.HC4_ACS.txt	HC4_ACS	HC4	ACS	H	conv:MiXcr
+metadata.txt.HC4_MEMORY.txt	HC4_MEMORY	HC4	MEMORY	H	conv:MiXcr
