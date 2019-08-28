@@ -1,4 +1,4 @@
-### BCR repertoire data analysis in Systemic Lupus Erythematosus
+### BCR repertoire data analysis in systemic lupus erythematosus
 
 * [RNA-seq: ](https://www.nature.com/articles/nprot.2016.095) Transcript-level expression analysis of RNA-seq experiments with HISAT, StringTie and Ballgown
 
